@@ -1,7 +1,6 @@
 from functions import *
-import hashlib
 
-# Parte 1
+# Problema 1
 
 key_1 = load_file('./data/mr-increible.key')
 key_1 = key_1.decode('utf-8')
