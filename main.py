@@ -1,3 +1,7 @@
+# Oscar Fernando López Barrios
+# Carné 20679
+# Laboratorio 3
+
 from functions import *
 
 # Problema 1
